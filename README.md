@@ -21,6 +21,15 @@ Most budgeting apps make you feel guilty. BudgetBattle makes you feel like a win
 - 🃏 **Challenge Cards** — swipeable cards for discovering and starting new budget challenges
 
 ---
+<p>
+  <img src="https://github.com/charveemasand108/BudgetBattle/blob/47885f8b43b7f6d515c9535311ef15b8d2b606d2/simulator_screenshot_759F8404-2AF3-4CE9-9EFB-51A13051E8BA.png?raw=true" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/BudgetBattle/blob/47885f8b43b7f6d515c9535311ef15b8d2b606d2/simulator_screenshot_70ADE0B9-8C83-4057-A175-A0A036723380.png?raw=true" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/BudgetBattle/blob/47885f8b43b7f6d515c9535311ef15b8d2b606d2/simulator_screenshot_81535E6F-7BAE-4984-B692-AEEABD0A75DE.png?raw=true" width="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/BudgetBattle/blob/47885f8b43b7f6d515c9535311ef15b8d2b606d2/simulator_screenshot_9B69A167-87BE-4996-813D-CC9D67484B8B.png?raw=true" width="220" />
+</p>
 
 ## 🏗️ Architecture
 
